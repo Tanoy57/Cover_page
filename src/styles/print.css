@@ -1,0 +1,15 @@
+@page {
+  size: A4;
+  margin: 0;
+}
+
+@media print {
+
+  body {
+    background: white;
+  }
+
+  #cover-preview {
+    box-shadow: none;
+  }
+}
