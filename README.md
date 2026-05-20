@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Academic Cover Page Generator
 
 This project is a modern full-stack cover page generator built with React, Vite, Express, and SQLite.
@@ -42,3 +43,7 @@ npm start
 ```
 
 The API listens on port `4000` by default.
+=======
+# Cover_page
+The University Cover Page Maker is a web app that helps students create professional academic cover pages quickly. Users enter details like university, course, student, and instructor info, choose templates, add logos, preview in real time, and download as PDF. It ensures fast, clean, and standardized academic formatting.
+>>>>>>> c5dc0f1ac77dc0bd2f086c0afa0587945452b8f6
